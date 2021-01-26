@@ -1,0 +1,13 @@
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.csprojAssemblyReference.cache
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.AssemblyInfoInputs.cache
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.AssemblyInfo.cs
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.csproj.CoreCompileInputs.cache
+D:\desktopmoved\c#\Ticccc\Ticccc\bin\Debug\netcoreapp3.1\Ticccc.exe
+D:\desktopmoved\c#\Ticccc\Ticccc\bin\Debug\netcoreapp3.1\Ticccc.deps.json
+D:\desktopmoved\c#\Ticccc\Ticccc\bin\Debug\netcoreapp3.1\Ticccc.runtimeconfig.json
+D:\desktopmoved\c#\Ticccc\Ticccc\bin\Debug\netcoreapp3.1\Ticccc.runtimeconfig.dev.json
+D:\desktopmoved\c#\Ticccc\Ticccc\bin\Debug\netcoreapp3.1\Ticccc.dll
+D:\desktopmoved\c#\Ticccc\Ticccc\bin\Debug\netcoreapp3.1\Ticccc.pdb
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.dll
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.pdb
+D:\desktopmoved\c#\Ticccc\Ticccc\obj\Debug\netcoreapp3.1\Ticccc.genruntimeconfig.cache
